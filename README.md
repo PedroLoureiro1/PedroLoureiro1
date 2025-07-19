@@ -1,27 +1,27 @@
 <div align="center">
 
-# Hello, I'm Pedro! 🇵🇹
+# Hey there, I'm Pedro! 🇵🇹✨
 
 ---
 
-**Welcome to my GitHub profile!**
+**Welcome to my GitHub space!**
 
-Computer Science and Engineer Student @ Instituto Superior Técnico.  
-Software Engineer @ WithUs
+Computer Science & Engineering student at Instituto Superior Técnico.  
+Software Engineer @ WithUs 
 
 ---
 
-## 🚀 Technologies & Languages
+## 💻 Skills & Technologies
 
-Here are the technologies and languages I work with the most:
+Here are the programming languages and tools I work with the most:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLoureiro1&layout=compact&theme=github_dark)
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Let’s Connect!
 
-Feel free to explore my repositories and get in touch!
+Feel free to browse my projects and reach out! 🤝
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/pedro-loureiro-727996285/)
 
